@@ -1,0 +1,97 @@
+{
+'product_data':
+[
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/HTB18cMFXifrK1RjSspbq6A4pFXa7.jpg',
+    'product_title': 'HAVIT IPX7 Waterproof Outdoor Portable Bluetooth Speaker Wireless waterproof Speaker with 5W output M65',
+    'product_min_price': '300',
+    'product_max_price':'500',
+    'product_seller_name' : 'Havit'
+  },
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/H6c7dabd427804fcd8fe169c76d6a8d8b7.jpg',
+    'product_title': 'SUPER D big curved edge full glue mietubl tempered glass screen protector',
+    'product_min_price': '25',
+    'product_max_price':'40',
+    'product_seller_name' : 'MTB'
+  },
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/HTB1mkOsoRsmBKNjSZFsq6yXSVXa8/Havit-H991BT-Wireless-Headset-Earphone-Headphone.jpg_350x350.jpg',
+    'product_title': 'Havit H991BT Wireless Headset Earphone Headphone ',
+    'product_min_price': '50000',
+    'product_max_price':'10000',
+    'product_seller_name' : 'Havit'
+  },
+  {
+    'product_image_url' : 'https://s.alicdn.com/@sc01/kf/HTB1HHRLajzuK1RjSspeq6ziHVXaN.jpg_300x300.jpg',
+    'product_title': 'Havit i96 IPX6 TWS Wireless Sports Waterproof Earphone',
+    'product_min_price': '1000',
+    'product_max_price':'1500',
+    'product_seller_name' : 'Havit'
+  },
+  {
+    'product_image_url' : 'https://s.alicdn.com/@sc01/kf/Ha56cf538bd47461e8cf284e34e1494462/Mietubl-new-generation-eye-protection-green-glass.jpg_480x480.jpg',
+    'product_title': 'Mietubl eye protection green glass for REDMI NOTE 8 PRO anti-fatigue anti-glare tempered glass screen protector ',
+    'product_min_price': '30',
+    'product_max_price':'50',
+    'product_seller_name' : 'MTB'
+  },
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/HTB1mkOsoRsmBKNjSZFsq6yXSVXa8/Havit-H991BT-Wireless-Headset-Earphone-Headphone.jpg_350x350.jpg',
+    'product_title': 'Havit H991BT Wireless Headset Earphone Headphone ',
+    'product_min_price': '50000',
+    'product_max_price':'10000',
+    'product_seller_name' : 'Havit'
+  },
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/H6c7dabd427804fcd8fe169c76d6a8d8b7.jpg',
+    'product_title': 'SUPER D big curved edge full glue mietubl tempered glass screen protector',
+    'product_min_price': '25',
+    'product_max_price':'40',
+    'product_seller_name' : 'MTB'
+  },
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/HTB18cMFXifrK1RjSspbq6A4pFXa7.jpg',
+    'product_title': 'HAVIT IPX7 Waterproof Outdoor Portable Bluetooth Speaker Wireless waterproof Speaker with 5W output M65',
+    'product_min_price': '300',
+    'product_max_price':'500',
+    'product_seller_name' : 'Havit'
+  },
+  {
+    'product_image_url' : 'https://s.alicdn.com/@sc01/kf/HTB1HHRLajzuK1RjSspeq6ziHVXaN.jpg_300x300.jpg',
+    'product_title': 'Havit i96 IPX6 TWS Wireless Sports Waterproof Earphone',
+    'product_min_price': '1000',
+    'product_max_price':'1500',
+    'product_seller_name' : 'Havit'
+  },
+  {
+    'product_image_url' : 'https://s.alicdn.com/@sc01/kf/Ha56cf538bd47461e8cf284e34e1494462/Mietubl-new-generation-eye-protection-green-glass.jpg_480x480.jpg',
+    'product_title': 'Mietubl eye protection green glass for REDMI NOTE 8 PRO anti-fatigue anti-glare tempered glass screen protector ',
+    'product_min_price': '30',
+    'product_max_price':'50',
+    'product_seller_name' : 'MTB'
+  },
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/HTB1mkOsoRsmBKNjSZFsq6yXSVXa8/Havit-H991BT-Wireless-Headset-Earphone-Headphone.jpg_350x350.jpg',
+    'product_title': 'Havit H991BT Wireless Headset Earphone Headphone ',
+    'product_min_price': '50000',
+    'product_max_price':'10000',
+    'product_seller_name' : 'Havit'
+  },
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/H6c7dabd427804fcd8fe169c76d6a8d8b7.jpg',
+    'product_title': 'SUPER D big curved edge full glue mietubl tempered glass screen protector',
+    'product_min_price': '25',
+    'product_max_price':'40',
+    'product_seller_name' : 'MTB'
+  },
+  {
+    'product_image_url' : 'https://sc02.alicdn.com/kf/HTB18cMFXifrK1RjSspbq6A4pFXa7.jpg',
+    'product_title': 'HAVIT IPX7 Waterproof Outdoor Portable Bluetooth Speaker Wireless waterproof Speaker with 5W output M65',
+    'product_min_price': '300',
+    'product_max_price':'500',
+    'product_seller_name' : 'Havit'
+  },
+]
+
+}
