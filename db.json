@@ -1,5 +1,3 @@
-{
-'product_data':
 [
   {
     'product_image_url' : 'https://sc02.alicdn.com/kf/HTB18cMFXifrK1RjSspbq6A4pFXa7.jpg',
@@ -93,4 +91,3 @@
     'product_seller_name' : 'Havit'
   },
 ]
-}
